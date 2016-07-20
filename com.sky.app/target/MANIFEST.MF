@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: com.sky.app Maven Webapp
+Implementation-Version: 1.0
+Built-By: samantha
+Implementation-Vendor-Id: com.sky.app
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_31
+Main-Class: ${start-class}
+
